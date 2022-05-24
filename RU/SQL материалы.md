@@ -4,4 +4,4 @@
 
 ### Бесплатные:
 
-[Курс SQL Tproger](https://tproger.ru/video/sql-introduction/)
+[Курс «Изучение программирования. SQL» Tproger](https://tproger.ru/video/sql-introduction/)
