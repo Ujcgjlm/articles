@@ -23,7 +23,7 @@
 
 ## SQL
 - ["Основные команды SQL, которые должен знать каждый программист" Tproger](https://tproger.ru/translations/sql-recap/)
-- ["Курс «Изучение программирования. SQL" Tproger](https://tproger.ru/video/sql-introduction/)
+- [Курс "Изучение программирования. SQL" Tproger](https://tproger.ru/video/sql-introduction/)
 
 ## Web
 - ✔️ ["Архитектура веба: основы для начинающих разработчиков" Tproger](https://tproger.ru/translations/web-architecture-101/)
